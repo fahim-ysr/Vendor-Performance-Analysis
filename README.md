@@ -1,6 +1,8 @@
 ## Overview
 
-Built an end-to-end business intelligence solution using Python, SQL, and data visualization to analyze vendor performance and optimize procurement strategies, resulting in actionable insights that identified 89% vendor dependency concentration and $50K+ revenue optimization opportunities.
+![image](V1.png)
+
+Built an end-to-end business intelligence solution using Python, SQL, Power BI and data visualization to analyze vendor performance and optimize procurement strategies, resulting in actionable insights that identified 89% vendor dependency concentration and $50K+ revenue optimization opportunities.
 
 ## 📈 Key Accomplishments
 - **Database Engineering with SQLAlchemy & SQLite:** Designed and automated ETL pipelines to ingest 12M+ sales records across 6 data sources, reducing manual data processing time by 95% while implementing comprehensive logging and performance monitoring for production reliability
@@ -35,3 +37,7 @@ Built an end-to-end business intelligence solution using Python, SQL, and data v
     - Logging & Monitoring Systems
     - Error Handling & Data Validation
     - Production-Ready Code Development
+
+![image](V2.png)
+![image](V3.png)
+![image](V4.png)
